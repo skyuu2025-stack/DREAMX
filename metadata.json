@@ -1,0 +1,8 @@
+{
+  "name": "DREAMX - 东南亚中文占卜",
+  "description": "融合东南亚文化精髓与现代AI技术的中文占卜平台。提供八字流年、塔罗测算、每日运势及AI大师咨询服务。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
